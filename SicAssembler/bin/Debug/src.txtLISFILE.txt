@@ -1,0 +1,12 @@
+	 SYMBOL TABLE
+Name	Address
+A	10
+m	22
+b	52
+l	10
+S	22
+C	52
+
+	p r o g r a m     l i s t i n g
+
+A        ahmed    start   000A10                 add     c13                 j       *16        c        word    519        

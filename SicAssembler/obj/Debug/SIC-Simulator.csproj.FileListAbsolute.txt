@@ -1,0 +1,9 @@
+c:\users\paloma\documents\visual studio 2015\Projects\SicAssembler\SicAssembler\bin\Debug\SicAssembler.exe.config
+c:\users\paloma\documents\visual studio 2015\Projects\SicAssembler\SicAssembler\bin\Debug\SicAssembler.exe
+c:\users\paloma\documents\visual studio 2015\Projects\SicAssembler\SicAssembler\bin\Debug\SicAssembler.pdb
+c:\users\paloma\documents\visual studio 2015\Projects\SicAssembler\SicAssembler\obj\Debug\SIC-Simulator.csprojResolveAssemblyReference.cache
+c:\users\paloma\documents\visual studio 2015\Projects\SicAssembler\SicAssembler\obj\Debug\SicAssembler.Assembler.resources
+c:\users\paloma\documents\visual studio 2015\Projects\SicAssembler\SicAssembler\obj\Debug\SicAssembler.Properties.Resources.resources
+c:\users\paloma\documents\visual studio 2015\Projects\SicAssembler\SicAssembler\obj\Debug\SIC-Simulator.csproj.GenerateResource.Cache
+c:\users\paloma\documents\visual studio 2015\Projects\SicAssembler\SicAssembler\obj\Debug\SicAssembler.exe
+c:\users\paloma\documents\visual studio 2015\Projects\SicAssembler\SicAssembler\obj\Debug\SicAssembler.pdb
